@@ -1,0 +1,2 @@
+<title>::<releaseDate>::<MPAARating>::<DirectorName>::<studio>::<userNote>::
+Mulan::1991::G::Sword Fightson::Disney studios::Great Movie!::
